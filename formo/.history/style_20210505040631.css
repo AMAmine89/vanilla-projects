@@ -1,0 +1,20 @@
+section {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+form {
+    background: linear-gradient(45deg, rgb(29, 18, 49) 10%, white 90%);
+    padding: 20px;
+    border: 1px solid rgb(187, 187, 187);
+    border-radius: 0%;
+    -webkit-border-radius: 0%;
+    -moz-border-radius: 0%;
+    -ms-border-radius: 0%;
+    -o-border-radius: 0%;
+}
+
+div {
+    width: 100%;
+}

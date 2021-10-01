@@ -1,0 +1,13 @@
+section {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+form {
+    background: linear-gradient(45deg, rgb(29, 18, 49) 10%, white);
+}
+
+.double-block {
+
+}

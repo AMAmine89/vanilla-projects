@@ -1,0 +1,35 @@
+section {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+form {
+    background: linear-gradient(45deg, rgba(29, 18, 49, 0.267) 10%, white 90%);
+    padding: 20px;
+    border: 1px solid rgb(187, 187, 187);
+    border-radius: 0%;
+    -webkit-border-radius: 0%;
+    -moz-border-radius: 0%;
+    -ms-border-radius: 0%;
+    -o-border-radius: 0%;
+}
+
+div {
+
+}
+
+input:not(input[type="submit"]) {
+    padding: 5px 10px;
+    height: 20px;
+    background: transparent;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-bottom: 1px solid rgb(187, 187, 187);
+    margin: 10px 5px;
+}
+
+input[type="email"] {
+    width: -webkit-fill-available;
+}
